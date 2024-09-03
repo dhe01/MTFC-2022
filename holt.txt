@@ -1,0 +1,285 @@
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                     1628251375.957
+Optimized:                       True   AIC                            391.491
+Trend:                       Additive   BIC                            396.714
+Seasonal:                        None   AICC                           400.107
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.9950000                alpha                 True
+smoothing_trend               0.0001                 beta                 True
+initial_level             1.5377e+05                  l.0                 True
+initial_trend              9229.0680                  b.0                 True
+damping_trend              0.9900000                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                          72867.520
+Optimized:                       True   AIC                            181.189
+Trend:                       Additive   BIC                            186.412
+Seasonal:                        None   AICC                           189.805
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.5681978                alpha                 True
+smoothing_trend            0.5681978                 beta                 True
+initial_level              756.58568                  l.0                 True
+initial_trend              36.002978                  b.0                 True
+damping_trend              0.9151438                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                      350740681.626
+Optimized:                       True   AIC                            359.252
+Trend:                       Additive   BIC                            364.474
+Seasonal:                        None   AICC                           367.867
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.9950000                alpha                 True
+smoothing_trend               0.0001                 beta                 True
+initial_level              53924.667                  l.0                 True
+initial_trend              4088.9940                  b.0                 True
+damping_trend              0.9900000                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                         711495.302
+Optimized:                       True   AIC                            229.043
+Trend:                       Additive   BIC                            234.265
+Seasonal:                        None   AICC                           237.658
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.2868069                alpha                 True
+smoothing_trend            0.0132442                 beta                 True
+initial_level              3330.9256                  l.0                 True
+initial_trend              38.989172                  b.0                 True
+damping_trend              0.9893068                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                       42390720.708
+Optimized:                       True   AIC                            314.876
+Trend:                       Additive   BIC                            320.099
+Seasonal:                        None   AICC                           323.492
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.1103468                alpha                 True
+smoothing_trend            0.0001799                 beta                 True
+initial_level              18260.074                  l.0                 True
+initial_trend             -151.65787                  b.0                 True
+damping_trend              0.9708540                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                              0.000
+Optimized:                       True   AIC                               -inf
+Trend:                       Additive   BIC                               -inf
+Seasonal:                        None   AICC                              -inf
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.0050000                alpha                 True
+smoothing_trend               0.0001                 beta                 True
+initial_level               0.000000                  l.0                 True
+initial_trend               0.000000                  b.0                 True
+damping_trend              0.9900000                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                      430711880.840
+Optimized:                       True   AIC                            363.565
+Trend:                       Additive   BIC                            368.788
+Seasonal:                        None   AICC                           372.180
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.7828571                alpha                 True
+smoothing_trend            0.7004511                 beta                 True
+initial_level              2.931e+05                  l.0                 True
+initial_trend             -6601.9260                  b.0                 True
+damping_trend              0.9900000                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                        7891021.921
+Optimized:                       True   AIC                            279.571
+Trend:                       Additive   BIC                            284.794
+Seasonal:                        None   AICC                           288.186
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.8782714                alpha                 True
+smoothing_trend            0.6363918                 beta                 True
+initial_level              3.9931813                  l.0                 True
+initial_trend              712.30835                  b.0                 True
+damping_trend              0.9914197                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                         116505.029
+Optimized:                       True   AIC                            191.045
+Trend:                       Additive   BIC                            196.267
+Seasonal:                        None   AICC                           199.660
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.0049991                alpha                 True
+smoothing_trend           9.9962e-05                 beta                 True
+initial_level              2344.7928                  l.0                 True
+initial_trend              48.761885                  b.0                 True
+damping_trend              0.9899639                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                       21967480.719
+Optimized:                       True   AIC                            301.072
+Trend:                       Additive   BIC                            306.294
+Seasonal:                        None   AICC                           309.687
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.9950000                alpha                 True
+smoothing_trend            0.4264286                 beta                 True
+initial_level              50138.000                  l.0                 True
+initial_trend              500.76000                  b.0                 True
+damping_trend              0.9900000                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                     1122339547.717
+Optimized:                       True   AIC                            383.677
+Trend:                       Additive   BIC                            388.900
+Seasonal:                        None   AICC                           392.293
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.3747687                alpha                 True
+smoothing_trend            0.1344562                 beta                 True
+initial_level             2.2109e+05                  l.0                 True
+initial_trend              2772.5854                  b.0                 True
+damping_trend              0.9900965                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                        1500835.751
+Optimized:                       True   AIC                            244.717
+Trend:                       Additive   BIC                            249.940
+Seasonal:                        None   AICC                           253.333
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.8439794                alpha                 True
+smoothing_trend            0.4081247                 beta                 True
+initial_level              2442.6875                  l.0                 True
+initial_trend             -40.355946                  b.0                 True
+damping_trend              0.9710000                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                         490078.656
+Optimized:                       True   AIC                            221.214
+Trend:                       Additive   BIC                            226.436
+Seasonal:                        None   AICC                           229.829
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.9950000                alpha                 True
+smoothing_trend               0.0001                 beta                 True
+initial_level              8446.6667                  l.0                 True
+initial_trend             -25.986000                  b.0                 True
+damping_trend              0.9900000                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                       77201876.448
+Optimized:                       True   AIC                            327.466
+Trend:                       Additive   BIC                            332.688
+Seasonal:                        None   AICC                           336.081
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.6730315                alpha                 True
+smoothing_trend            0.6578423                 beta                 True
+initial_level              63637.324                  l.0                 True
+initial_trend             -178.30736                  b.0                 True
+damping_trend              0.9857120                  phi                 True
+------------------------------------------------------------------------------
+                              Holt Model Results                              
+==============================================================================
+Dep. Variable:                  endog   No. Observations:                   21
+Model:                           Holt   SSE                     7938370660.878
+Optimized:                       True   AIC                            424.759
+Trend:                       Additive   BIC                            429.982
+Seasonal:                        None   AICC                           433.375
+Seasonal Periods:                None   Date:                 Sat, 03 Dec 2022
+Box-Cox:                        False   Time:                         02:13:07
+Box-Cox Coeff.:                  None                                         
+==============================================================================
+                       coeff                 code              optimized      
+------------------------------------------------------------------------------
+smoothing_level            0.6178571                alpha                 True
+smoothing_trend            0.6178571                 beta                 True
+initial_level             1.6387e+06                  l.0                 True
+initial_trend             -38586.270                  b.0                 True
+damping_trend              0.9900000                  phi                 True
+------------------------------------------------------------------------------
